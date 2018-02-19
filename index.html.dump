@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="GBK">
+	<title>21世纪不动产锦泽加盟店</title>
+	<link rel="stylesheet" href="css/font-awesome-4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!-- 分割 -->
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/process.css">
+    <link href="css/owl.carousel.css" rel="stylesheet">
+	<link href="css/owl.theme.css" rel="stylesheet">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/owl.carousel.js"></script>
+	
+	<script type="text/javascript">
+        //设定rem值
+        document.getElementsByTagName("html")[0].style.fontSize = document.documentElement.clientWidth/20 + 'px';
+    </script>
+
+
+
+	<!-- 分割 -->	
+	
+	<style>
+		.d_column table {
+			border-collapse: collapse;
+			width: 100%;
+			border-spacing: 0;
+			
+		}
+		.d_column th {
+			background: #F0F0F0;
+			border: 1px solid #ddd;
+			padding: 5px 10px;
+			text-indent: 0PX;
+			TEXT-ALIGN: CENTER;
+			min-width: 91PX;
+			
+		}
+		.d_column thead th {
+			background: #F0F0F0;
+		}
+			
+		}
+		.d_column th,
+		.d_column td {
+			font-style: normal;
+			font-size: 13px;
+			color: #555;
+			font-weight: 400;
+			text-align: left;
+
+		}
+		.d_column td {
+			border: 1px solid #CCCCCC;
+			padding: 7px 10px;
+		}
+		.titleBox{
+			margin-top: 100px !important;
+		}
+		.jieshao {
+			margin-top: 50px !important;
+		}	
+		.jiangshi{
+			margin-top: 50px !important;
+		}
+		.hz_box{
+			margin-bottom:50px !important;
+		}
+	</style>
+</head>
+<body>
+	<div class="bigBox">
+	
+		<div class="index">
+			<div class="titleBox">21世纪不动产锦泽加盟店</div><br>
+			<div class="sloganBox"><span style="font-size:22px;">联系电话 - <span style="color:red; font-size:22px;">15666443344</span></span></div>
+			<div class="sloganBox"><span style="font-size:22px;">地址 - <span style="color:red; font-size:22px;">华润中央公园24号楼底层商铺</span></span></div>
+
+
+		</div>
+
+		<div class="clearfloat"></div>
+
+		<div class="jieshao">
+			<div id="owl-demo" class="owl-carousel">
+			    <a class="item"><img src="img/1.jpeg" alt=""></a>
+			    <a class="item"><img src="img/2.jpeg" alt=""></a>
+			    <a class="item"><img src="img/3.jpeg" alt=""></a>
+			    <a class="item"><img src="img/4.jpeg" alt=""></a>
+			    <a class="item"><img src="img/5.jpeg" alt=""></a>
+			    <a class="item"><img src="img/6.jpeg" alt=""></a>
+			</div>
+		</div>
+
+		<div class="clearfloat"></div>
+
+		<div class="jiangshi">
+			<div id="jiangshi"></div>
+			<div class="js_title">置业顾问</div>
+			<div class="js_sloganBox">专业从事华润中央公园、华润仰山红叶林、仰山别墅、仰山云栖径、华润紫云府、领秀城、泉景天沅等小区房屋、车位咨询</div>
+			<div class="js_BigBox">
+				<div class="jsBlock">
+					<img src="images/wy.jpeg" alt="" class="userHead">
+					<div class="nicheng">王勇</div>
+					<div class="email">18753100779</script></div>
+				</div>
+				<div class="jsInfoBlock">
+					<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+					<br>
+					本人从事房产行业两年以上<br>
+					专业从事华润中央公园、华润仰山红叶林、仰山别墅、仰山云栖径、华润紫云府、领秀城、泉景天沅等小区房屋、车位咨询<br>
+					<span style="color:blue; font-size:20px;">个人主页：</span><a style="font-size:20px;color:red;" href="http://esf.jn.fang.com/a/jz12345654321">搜房网个人主页</a>
+				</div>
+				<div class="jsBlock">
+					<img src="images/wywx.jpeg" alt="" class="userHead" style="border-radius:0px">
+					<div class="nicheng">微信</div>
+				</div>
+			</div>
+			<div class="js_BigBox">
+				<div class="jsBlock">
+					<img src="images/wy.jpeg" alt="" class="userHead">
+					<div class="nicheng">王勇</div>
+					<div class="email">18753100779</script></div>
+				</div>
+				<div class="jsInfoBlock">
+					<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+					<br>
+					本人从事房产行业两年以上<br>
+					专业从事华润中央公园、华润仰山红叶林、仰山别墅、仰山云栖径、华润紫云府、领秀城、泉景天沅等小区房屋、车位咨询<br>
+					<span style="color:blue; font-size:20px;">个人主页：</span><a style="font-size:20px;color:red;" href="http://esf.jn.fang.com/a/jz12345654321">搜房网个人主页</a>
+				</div>
+				<div class="jsBlock">
+					<img src="images/wywx.jpeg" alt="" class="userHead" style="border-radius:0px">
+					<div class="nicheng">微信</div>
+				</div>
+			</div>
+			<div class="js_BigBox">
+				<div class="jsBlock">
+					<img src="images/wy.jpeg" alt="" class="userHead">
+					<div class="nicheng">王勇</div>
+					<div class="email">18753100779</script></div>
+				</div>
+				<div class="jsInfoBlock">
+					<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+					<br>
+					本人从事房产行业两年以上<br>
+					专业从事华润中央公园、华润仰山红叶林、仰山别墅、仰山云栖径、华润紫云府、领秀城、泉景天沅等小区房屋、车位咨询<br>
+					<span style="color:blue; font-size:20px;">个人主页：</span><a style="font-size:20px;color:red;" href="http://esf.jn.fang.com/a/jz12345654321">搜房网个人主页</a>
+				</div>
+				<div class="jsBlock">
+					<img src="images/wywx.jpeg" alt="" class="userHead" style="border-radius:0px">
+					<div class="nicheng">微信</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="clearfloat"></div>
+
+		<div class="clearfloat"></div>
+
+		
+
+		<div class="clearfloat"></div>
+
+		<div class="hezuohuoban">
+			<div id="hezuohuoban"></div>
+			<div class="hz_box">
+				<a  href="" target="_blank">
+					<div class="js_title">21世纪不动产锦泽加盟店
+					</div>
+				</a>
+			</div>
+		</div>
+		
+	</div>
+	<!-- 返回顶部代码 start -->
+	<div class="rTop">
+		<div class="topBlock" onmouseover="s_h_tb('wx')" onmouseout="s_h_tb('wx')">
+			<a href="javascript:;">联系<br>微信</a>
+		</div>
+		<div class="topBigBlock" id="wx">
+			<img src="images/wx.jpeg" width="240" height="240">
+		</div>
+		<div class="topBlock goTop">
+			<a href="javascript:;" class="go">返回<br>顶部</a>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/rTop.js"></script>
+	<!-- 返回顶部代码 end -->
+	<script>
+		function nr_show(id) {
+			if ($('#'+id).is(":hidden")) {
+                $('#'+id).slideDown(300);
+			} else {
+                $('#'+id).slideUp(300);
+			}
+		}
+		$(function(){
+		    var windowHeight = $(window).height();
+		    var indexHeight = $('.index').height();
+		    var windowWidth = $(window).width();
+		    // 设置index div margin-top值
+		    marginTop = (windowHeight - indexHeight) / 2;
+		    $(".titleBox").css("margin-top",marginTop + 40);
+		    // 设置介绍div top值
+		    if (indexHeight < windowHeight) {
+			    $(".jieshao").css("margin-top",windowHeight - indexHeight);
+			}
+		    //设置jiangshi div top值
+		    var jieshaoHeight = $('.jieshao').height();
+		    if (jieshaoHeight < windowHeight) {
+			    $(".jiangshi").css("margin-top",windowHeight - jieshaoHeight);
+			}
+		    //设置kebiao div top值
+		    var jiangshiHeight = $('.jiangshi').height();
+		    if (jiangshiHeight < windowHeight) {
+			    $(".kebiao").css("margin-top",windowHeight - jiangshiHeight);
+			}
+		    //设置guanyuwomen div top值
+		    var bk_boxHeight = $('.bk_box').height();
+		    if (bk_boxHeight < windowHeight) {
+		    	$(".guanyuwomen").css("margin-top",windowHeight - bk_boxHeight);
+		    }
+
+
+
+	    	$(".hezuohuoban").css("margin-top",30);
+
+		    $(".hz_box").css("margin-bottom",windowHeight / 2);
+
+		    var m_st, m_po = 1;
+		    $(window).scroll(
+		        function () {
+		            m_st = Math.max(document.body.scrollTop || document.documentElement.scrollTop);
+		            if (m_st > m_po) {
+		                // $(".navBox").css({"height":"50px","line-height":"48px"});
+		                // $(".navBox a").css({"height":"30px","line-height":"30px","padding-left":"24px","padding-right":"24px"});
+		                $(".navBox a").css({"padding-left":"15px","padding-right":"15px"});
+		            	$(".navBox").slideDown(400);
+		            }else{
+		            	$(".navBox").slideUp(400);
+		                // $(".navBox").css({"height":"60px","line-height":"58px"});
+		                // $(".navBox a").css({"height":"40px","line-height":"40px","padding-left":"30px","padding-right":"30px"});
+		            }
+		        }) 
+		});
+		function rTop() {
+			$('html,body').animate({'scrollTop':0},800);
+		}
+		function maoDian(id) {
+			$("html,body").animate({scrollTop:$("#"+id).offset().top}, 500);
+			var num = Math.floor(Math.random()*4+1);
+		    // $("body").css("background-image","url(images/pic_"+num+".jpg)");
+		}
+	</script>
+	
+	<!-- 分割 -->
+	<script type="text/javascript" src="js/main.js"></script>
+	<style>
+		#owl-demo {
+		    width: 100%;
+		    height: 500px;
+		    margin-left: auto;
+		    margin-right: auto;
+		}
+		#owl-demo .item {
+		    display: block;
+		}
+		#owl-demo img {
+		    display: block;
+		    width: 100%;
+		    height: 500px;
+		}
+	</style>
+	<script>
+		$(function(){
+		    $('#owl-demo').owlCarousel({
+		        items: 1,
+		        autoPlay: true,
+		        itemsDesktop:false,
+		        itemsDesktopSmall:false,
+		        itemsTablet:false,
+		        itemsTabletSmall:false,
+		        itemsMobile:false
+
+		    });
+		});
+	</script>
+</body>
+</html>
