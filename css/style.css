@@ -17,12 +17,35 @@ textarea {-webkit-appearance: none;}
 
 body{
 	background-color: #eee;
-	background:url(../images/pic_3.jpg) 100% 100% no-repeat; 
+	background:url(../1.jpeg) 100% 100% no-repeat; 
 	background-size:cover;
 	background-attachment: fixed;
 	/*overflow-x: hidden; overflow-y: hidden;*/
 }
 
+
+.c-tip{
+	font-size: 38px;
+	color: white;
+}
+.c-list{
+	width: 900px;
+	margin: 0 auto;
+}
+.c-list li{
+	float: left;
+	width: 180px;
+}
+.c-list a{
+	font-size: 20px;
+	color: red !important;
+	text-decoration: underline;
+}
+.d-list{
+	width: 920px;
+	height: auto;
+	margin: 0 auto;
+}
 /*导航栏*/
 .navBox{
 	position:fixed;
@@ -182,11 +205,16 @@ body{
 	text-align: center;
 	font-weight:900;
 }
-.js_BigBox{
+/*.js_BigBox{
 	width: 100%;
 	margin: 0 auto;
 	margin-top: 20px;
 	display: flex;
+}*/
+.js_BigBox{
+	width: 300px;
+	float: left;
+	margin: 20px 0;
 }
 .jsBlock{
 	float: left;
