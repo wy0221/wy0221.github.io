@@ -49,7 +49,9 @@ body{
 	height: 100px;
 }
 .d-list{
-	width: 920px;
+/*	width: 920px;
+*/	
+	width: 75%;
 	height: auto;
 	margin: 0 auto;
 }
