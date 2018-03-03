@@ -107,7 +107,8 @@ body{
 		margin: 0 auto;
 	}
 	.js_BigBox {
-		width: 290px !important;
+		width: 265px !important;
+		margin:20px 12px !important;
 	}
 }
 
