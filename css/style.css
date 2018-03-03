@@ -29,13 +29,15 @@ body{
 	color: white;
 }
 .c-list{
-	width: 1000px;
+	/*width: 1000px;*/
+	width: 90%;
 	margin: 0 auto;
 }
 .c-list li{
 	float: left;
-	width: 180px;
-	margin: 0 10px;
+	/*width: 180px;*/
+	width: 18%;
+	margin: 0 1%;
 }
 .c-list a{
 	font-size: 20px;
