@@ -29,17 +29,22 @@ body{
 	color: white;
 }
 .c-list{
-	width: 900px;
+	width: 1000px;
 	margin: 0 auto;
 }
 .c-list li{
 	float: left;
 	width: 180px;
+	margin: 0 10px;
 }
 .c-list a{
 	font-size: 20px;
 	color: red !important;
 	text-decoration: underline;
+}
+.c-list img{
+	width: 180px;
+	height: 100px;
 }
 .d-list{
 	width: 920px;
